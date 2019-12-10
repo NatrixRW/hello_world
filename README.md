@@ -1,2 +1,2 @@
 # hello_world
-Test repository for new GitHub account
+This is ARC's data and GIS officer testing otut GitHub.
